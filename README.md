@@ -38,7 +38,7 @@ If you'd like to try out my projects, follow these steps:
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/kanincityy/computational_linguistics_projects.git
+    git clone https://github.com/kanincityy/dependency_parser.git
     ```
 2. Navigate to the specific project's directory.
 3. Run the code or open the Jupyter Notebooks to explore the results.
